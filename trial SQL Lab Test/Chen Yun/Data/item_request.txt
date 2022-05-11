@@ -1,0 +1,70 @@
+Faculty	Description	admin_staff	school	isbn	is_procured?
+87260118	DESC2588: The Kitchen Diaries	87260121	School of Accountancy	9781408845654	Y
+87260122	DESC2587: Zero to One : Notes on Start Ups, or How to Build the Future	87260104	School of Economics	8781408845736	Y
+87260122	DESC2602: I Have No Mouth and I Must Scream	87260137	School of Information Systems	9781408845685	Y
+87260122	DESC2634: Vegetable Kingdom: A Vegan Cookbook : Cooking the World of Plant-Based Recipes	81158005	School of Information Systems	9781408845652	Y
+87260122	DESC2637: John Dies at the End	87501016	School of Business	9781408845680	Y
+87260123	DESC2584: If on a Winter's Night a Traveler	87501013	School of Accountancy	9781408845695	Y
+87260123	DESC2611: Becoming	81158000	School of Law	\N	N
+87260150	DESC2606: The Cruel Prince (The Folk of the Air)	87260146	School of Information Systems	9781408845664	Y
+87260125	DESC2604: A Prayer for Owen Meany	87260146	School of Information Systems	9781408845715	Y
+87260128	DESC2576: The Book of Lost Things	81129005	School of Economics	9781408845716	Y
+87260128	DESC2581: Braving the Wilderness	81158003	School of Information Systems	\N	N
+87260128	DESC2594: Nadiya Bakes	87501025	School of Business	\N	N
+87260128	DESC2635: A Wrinkle in Time	81158001	School of Information Systems	9781408845690	Y
+87260130	DESC2610: Cook, Eat, Repeat : Ingredients, recipes and stories.	87501020	School of Economics	8781408845752	Y
+87260132	DESC2582: The Silence of the Lambs	87260105	School of Economics	9781408845691	Y
+87260132	DESC2589: A Long Fatal Love Chase	87501023	School of Information Systems	9781408845730	Y
+87260132	DESC2601: Dare to Lead : Brave Work. Tough Conversations. Whole Hearts.	81129006	School of Economics	\N	N
+87260132	DESC2620: The Kitchen Diaries	87260120	School of Information Systems	\N	N
+87260134	DESC2598: A Single Thread	81129002	School of Accountancy	9781408845658	Y
+87260134	DESC2605: A Clockwork Orange	81158002	School of Business	\N	N
+87260134	DESC2616: 12 Rules for Life : An Antidote to Chaos	87260105	School of Information Systems	8781408845742	Y
+87260134	DESC2618: Ripe : A Cook in the Orchard	87260197	School of Information Systems	\N	N
+87260134	DESC2626: And Then There Were None	87260155	School of Accountancy	9781408845696	Y
+87260135	DESC2577: Sapiens : A Brief History of Humankind	87501025	School of Accountancy	8781408845733	Y
+87260135	DESC2592: Atomic Habits : The life-changing million copy bestseller	87501010	School of Economics	8781408845739	Y
+87260138	DESC2585: Dare to Lead : Brave Work. Tough Conversations. Whole Hearts.	87260111	School of Accountancy	8781408845748	Y
+87260138	DESC2621: Ella Minnow Pea	87501011	School of Law	9781408845727	Y
+87260138	DESC2628: Tom's Midnight Garden	87501014	School of Accountancy	9781408845742	Y
+87260141	DESC2623: The Mountain's Morning Song	87260106	School of Business	9781408845744	Y
+87260141	DESC2625: Wild Seed	87501011	School of Accountancy	9781408845725	Y
+87260147	DESC2597: Zero to One : Notes on Start Ups, or How to Build the Future	87501005	School of Law	8781408845736	Y
+87260147	DESC2608: I Am the Messenger	87260197	School of Business	9781408845712	Y
+87260147	DESC2622: Heart-shaped Box	87501010	School of Law	9781408845731	Y
+87260147	DESC2639: A Promised Land	87501013	School of Accountancy	\N	N
+87260150	DESC2580: Where the Crawdads Sing	87501024	School of Information Systems	8781408845746	Y
+87260124	DESC2600: Cook, Eat, Repeat : Ingredients, recipes and stories.	81129006	School of Law	8781408845752	Y
+87260150	DESC2603: Before the Coffee Gets Cold	81158005	School of Economics	8781408845747	Y
+87260150	DESC2609: Me Talk Pretty One Day	87260133	School of Information Systems	9781408845681	Y
+87260153	DESC2583: Little, Big	87260137	School of Economics	9781408845729	Y
+87260153	DESC2638: The Unbearable Lightness of Being	87501002	School of Information Systems	9781408845723	Y
+87260153	DESC2642: Sloppy Firsts 	87501024	School of Information Systems	9781408845714	Y
+87260156	DESC2578: Mama Black Widow	87260133	School of Economics	9781408845720	Y
+87260156	DESC2613: Brave New World	87260133	School of Information Systems	\N	N
+87260156	DESC2632: The Man Without Qualities	87260137	School of Information Systems	\N	N
+87260159	DESC2586: A Long Fatal Love Chase	87501010	School of Information Systems	9781408845730	Y
+87260159	DESC2615: Keturah and Lord Death	81129002	School of Law	9781408845741	Y
+87260159	DESC2636: When You Are Engulfed in Flames	87260149	School of Accountancy	\N	N
+87501000	DESC2593: Homo Deus : A Brief History of Tomorrow	87260158	School of Economics	8781408845735	Y
+87501000	DESC2612: The Storyteller's Daughter: A Retelling of the Arabian Nights	87501025	School of Economics	9781408845738	Y
+87501003	DESC2579: The Testament of Gideon Mack	81158003	School of Accountancy	9781408845709	Y
+87501003	DESC2596: Every Day	87501016	School of Economics	9781408845719	Y
+87501003	DESC2629: The Mountain's Morning Song	87501016	School of Economics	\N	N
+87501006	DESC2627: Shuggie Bain	87260111	School of Economics	\N	N
+87501006	DESC2630: Hate List	87501020	School of Law	9781408845721	Y
+87501006	DESC2644: Fahrenheit 451	87501024	School of Information Systems	9781408845701	Y
+87501015	DESC2591: The Hitchhiker's Guide to the Galaxy	87501024	School of Economics	9781408845666	Y
+87501015	DESC2595: Sapiens : A Brief History of Humankind	87501016	School of Law	\N	N
+91129005	DESC2607: The Song of Achilles	81129005	School of Law	9781408845663	Y
+91129005	DESC2614: The Storyteller's Daughter: A Retelling of the Arabian Nights	81158003	School of Economics	9781408845738	Y
+91129005	DESC2631: A Single Thread	87260137	School of Economics	9781408845658	Y
+91129005	DESC2640: The Awakening: Fate in Motion	87501023	School of Law	9781408845739	Y
+91158003	DESC2599: I'll Give You the Sun	87260127	School of Business	9781408845722	Y
+91158005	DESC2590: The Night Circus	87260146	School of Business	9781408845718	Y
+91158005	DESC2641: Tom's Midnight Garden	81129006	School of Accountancy	9781408845742	Y
+97501014	DESC2617: The Cruel Prince (The Folk of the Air)	87501024	School of Accountancy	9781408845664	Y
+97501014	DESC2619: Burnt Sugar	87501025	School of Economics	\N	N
+97501014	DESC2624: Brave New World	81129006	School of Accountancy	9781408845703	Y
+97501014	DESC2633: The Man Without Qualities	87260121	School of Accountancy	9781408845677	Y
+97501014	DESC2643: Braving the Wilderness	87260127	School of Business	\N	N

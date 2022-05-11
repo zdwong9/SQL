@@ -1,0 +1,33 @@
+User_ID	Office_Address	Main_Research
+87260118	SIS 5-1, School of Information Systems, 80 Stamford Rd	Organisational Behaviour & Human Resources
+87260122	SIS 5-2, School of Information Systems, 80 Stamford Rd	Data Management & Analytics
+87260123	SIS 5-3, School of Information Systems, 80 Stamford Rd	Economic Theory
+87260124	SIS 5-4, School of Information Systems, 80 Stamford Rd	Behavioural Finance
+87260125	SIS 5-5, School of Information Systems, 80 Stamford Rd	Sustainable Operations including Agri-business
+87260128	SIS 5-6, School of Information Systems, 80 Stamford Rd	Mechanism Design
+87260130	SIS 5-7, School of Information Systems, 80 Stamford Rd	Inventory, Logistics and Transportation Management
+87260132	SIS 5-8, School of Information Systems, 80 Stamford Rd	Software Engineering & Systems
+87260134	SOE 6-1, School of Economics, 90 Stamford Rd	Information Systems Management
+87260135	SOE 6-2, School of Economics, 90 Stamford Rd	Culture and Cross-cultural Management
+87260138	SOE 6-3, School of Economics, 90 Stamford Rd	Human Capital and Labour Economics
+87260141	SOE 6-4, School of Economics, 90 Stamford Rd	E-Commerce and Marketplace Analytics
+87260144	SOE 6-5, School of Economics, 90 Stamford Rd	Human Capital Strategy and Management
+87260147	SOE 6-6, School of Economics, 90 Stamford Rd	Organisational Creativity and Innovation
+87260150	SOB 5-1, School of Business, 50 Stamford Rd	Financial Innovation and FinTech
+87260153	SOB 5-2, School of Business, 50 Stamford Rd	Political Theory
+87260156	SOB 5-3, School of Business, 50 Stamford Rd	Company law
+87260159	SOB 5-4, School of Business, 50 Stamford Rd	Comparative & Political Philosophy
+87501000	SOB 5-5, School of Business, 50 Stamford Rd	Urban & Social Analytics
+87501003	SOB 5-6, School of Business, 50 Stamford Rd	Asset Pricing and Capital Markets
+87501006	SOB 5-7, School of Business, 50 Stamford Rd	Criminal Law and Justice
+97501014	SOB 5-8, School of Business, 50 Stamford Rd	Public International Law
+87501015	SOB 5-9, School of Business, 50 Stamford Rd	Urban Mobility & Smart Commuting
+91158003	SOB 5-10, School of Business, 50 Stamford Rd	Consumer Judgment and Decision-making
+91158005	SOB 5-11, School of Business, 50 Stamford Rd	Cognitive Psychology
+91129005	SOB 5-12, School of Business, 50 Stamford Rd	Cultural Psychology
+87260100	SIS 5-9, School of Information Systems, 80 Stamford Rd	Intelligent Systems
+87260101	SIS 4-1, School of Information Systems, 80 Stamford Rd	Information Systems Management
+87260103	SIS 4-2, School of Information Systems, 80 Stamford Rd	Software Engineering & Systems
+87260113	SIS 5-1, School of Economics, 90 Stamford Rd	Human Capital and Labour Economics
+87260114	SIS 5-2, School of Economics, 90 Stamford Rd	Financial Economics
+87260116	SOB 5-13, School of Business, 50 Stamford Rd	Urban Mobility & Smart Commuting

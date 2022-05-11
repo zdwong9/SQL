@@ -1,0 +1,6 @@
+RID	Floor_Number	has_Space?
+R101	1	Y
+R102	1	Y
+R201	2	N
+R301	3	Y
+R302	3	N

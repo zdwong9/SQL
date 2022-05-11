@@ -1,0 +1,46 @@
+User_ID	School 	Is_Chief?
+87260104	School of Accountancy	N
+87260105	School of Law	N
+87260106	School of Economics	N
+87260107	School of Economics	N
+87260111	School of Law	N
+87260120	School of Law	N
+87260121	School of Economics	N
+87260127	School of Accountancy	N
+87260133	School of Economics	N
+87260137	School of Business	N
+87260140	School of Information Systems	N
+87260143	School of Law	Y
+87260146	School of Accountancy	N
+87260149	School of Economics	N
+87260152	School of Economics	N
+87260155	School of Economics	N
+87260158	School of Information Systems	N
+87260197	School of Economics	N
+87501002	School of Law	N
+87501005	School of Economics	N
+87501009	School of Business	N
+87501010	School of Law	N
+87501011	School of Law	N
+87501013	School of Economics	N
+87501014	School of Economics	N
+87501016	School of Law	N
+87501019	School of Information Systems	N
+87501020	School of Business	N
+87501022	School of Accountancy	N
+87501023	School of Information Systems	N
+87501024	School of Business	N
+87501025	School of Accountancy	N
+81158000	School of Accountancy	N
+81158001	School of Business	N
+81158002	School of Accountancy	N
+81158003	School of Information Systems	N
+81158005	School of Information Systems	N
+81158006	School of Accountancy	N
+81158007	School of Information Systems	N
+81129000	School of Information Systems	N
+81129002	School of Business	N
+81129003	School of Economics	N
+81129004	School of Business	N
+81129005	School of Economics	N
+81129006	School of Accountancy	N

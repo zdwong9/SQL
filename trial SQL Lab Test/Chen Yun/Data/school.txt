@@ -1,0 +1,6 @@
+Name	Address	URL
+School of Information Systems	80 Stamford Rd	https://sis.smu.edu.sg/
+School of Law	55 Armenian St	https://law.smu.edu.sg/
+School of Business	50 Stamford Rd	https://business.smu.edu.sg/
+School of Accountancy	60 Stamford Rd	https://accountancy.smu.edu.sg/
+School of Economics	90 Stamford Rd	https://economics.smu.edu.sg/

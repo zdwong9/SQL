@@ -1,0 +1,123 @@
+ISBN	Title	Publisher_Name	Classification_Code	Format_Type
+8781408845730	A Promised Land	Crown Publishing Group	DDC	P
+8781408845731	The Boy, the Mole, the Fox and the Horse	Harperone (US)	LCC	E
+8781408845732	Man's Search For Meaning : The classic tribute to hope from the Holocaust	Ebury Publishing	LCC	P
+8781408845733	Sapiens : A Brief History of Humankind	Vintage Publishing	DDC	P
+8781408845734	Becoming	Penguin Books Ltd	LCC	P
+8781408845735	Homo Deus : A Brief History of Tomorrow	Vintage Publishing	LCC	E
+8781408845736	Zero to One : Notes on Start Ups, or How to Build the Future	Ebury Publishing	LCC	P
+8781408845737	The Lean Startup : How Constant Innovation Creates Radically Successful Businesses	Portfolio Penguin	DDC	P
+8781408845738	Start With Why : How Great Leaders Inspire Everyone To Take Action	Penguin Books Ltd	DDC	E
+8781408845739	Atomic Habits : The life-changing million copy bestseller	Cornerstone	LCC	P
+8781408845740	The Man Who Mistook His Wife for a Hat	Pan MacMillan	LCC	E
+8781408845741	Braving the Wilderness : The quest for true belonging and the courage to stand alone	Ebury Publishing	LCC	P
+8781408845742	12 Rules for Life : An Antidote to Chaos	Penguin Books Ltd	DDC	E
+8781408845743	influence : The Psychology of Persuasion	HarperCollins Publishers Inc	LCC	P
+8781408845744	Leaders Eat Last : Why Some Teams Pull Together and Others Don't	Penguin Books Ltd	DDC	E
+8781408845745	Milk and Honey	Andrews McMeel Publishing	LCC	P
+8781408845746	Where the Crawdads Sing	Little, Brown Book Group	DDC	P
+8781408845747	Before the Coffee Gets Cold	Pan MacMillan	DDC	P
+8781408845748	Dare to Lead : Brave Work. Tough Conversations. Whole Hearts.	Ebury Publishing	LCC	P
+8781408845749	Shuggie Bain	Pan MacMillan	DDC	E
+8781408845750	Burnt Sugar	Penguin Books Ltd	DDC	E
+8781408845751	Real Life	Daunt Books	LCC	E
+8781408845752	Cook, Eat, Repeat : Ingredients, recipes and stories.	Vintage Publishing	DDC	E
+8781408845753	Un-cook Yourself : A Ratbag's Rules for Life	Ebury Australia	LCC	P
+8781408845754	Nadiya Bakes	Penguin Books Ltd	DDC	P
+8781408845755	Baking Day With Anna Olson : Recipes to Bake Together	Random House USA Inc	DDC	P
+8781408845756	New World Sourdough : Artisan Techniques for Creative Homemade Fermented Breads; With Recipes for Birote, Bagels, Pan de Coco, Beignets, and More	Quarry Books	DDC	P
+9781408845652	Vegetable Kingdom: A Vegan Cookbook : Cooking the World of Plant-Based Recipes	TEN SPEED PRESS	LCC	E
+9781408845653	Two Kitchens : 120 Family Recipes from Sicily and Rome	Headline Publishing Group	DDC	E
+9781408845654	The Kitchen Diaries	HarperCollins Publishers	LCC	E
+9781408845655	Ripe : A Cook in the Orchard	Random House USA Inc	LCC	E
+9781408845656	Eat : The Little Book of Fast Food	TEN SPEED PRESS	DDC	E
+9781408845657	A Life on Our Planet : My Witness Statement and a Vision for the Future	Ebury Publishing	DDC	P
+9781408845658	A Single Thread	HarperCollins Publishers	LCC	P
+9781408845659	Girl, Woman, Other : WINNER OF THE BOOKER PRIZE 2019	Penguin Books Ltd	DDC	P
+9781408845660	Conversations with Friends	FABER & FABER	LCC	P
+9781408845661	The Queen's Gambit	Orion Publishing Co	LCC	P
+9781408845662	Summer of '69	Little Brown and Company	DDC	P
+9781408845663	The Song of Achilles	Bloomsbury Publishing PLC	LCC	P
+9781408845664	The Cruel Prince (The Folk of the Air)	Hot Key Books	DDC	P
+9781408845665	Do Androids Dream of Electric Sheep?	Penguin Random House	DDC	P
+9781408845666	The Hitchhiker's Guide to the Galaxy	Hachette Livre	DDC	E
+9781408845667	Pride and Prejudice 	HarperCollins	LCC	E
+9781408845668	The Curious Incident of the Dog	Macmillan Publishers	DDC	E
+9781408845669	I Was Told There'd Be Cake	Simon & Schuster	LCC	P
+9781408845670	To Kill a Mockingbird	McGraw-Hill Education	LCC	P
+9781408845671	The Unbearable Lightness of Being	Houghton Mifflin Harcourt	LCC	P
+9781408845672	Eats, Shoots & Leaves	Pearson Education	DDC	E
+9781408845673	The Hollow Chocolate Bunnies	Scholastic	DDC	P
+9781408845674	A Clockwork Orange	Cengage Learning	LCC	E
+9781408845675	The Perks of Being a Wallflower	Springer Nature	DDC	P
+9781408845676	Midnight in the Garden of Good and Evil	Wiley 	LCC	P
+9781408845677	The Man Without Qualities	Oxford University Press	DDC	P
+9781408845678	The Elephant Tree	Bonnier Books	DDC	E
+9781408845679	Where the Wild Things Are	Klett	LCC	E
+9781408845680	John Dies at the End	Penguin Random House	DDC	E
+9781408845681	Me Talk Pretty One Day	Hachette Livre	LCC	P
+9781408845682	One Hundred Years of Solitude	HarperCollins	LCC	P
+9781408845683	One Flew Over the Cuckoo's Nest	Macmillan Publishers	LCC	P
+9781408845684	How to Lose Friends and Alienate People	Simon & Schuster	DDC	E
+9781408845685	I Have No Mouth and I Must Scream	McGraw-Hill Education	DDC	P
+9781408845686	The Zombie Room	Houghton Mifflin Harcourt	LCC	E
+9781408845687	Requiem for a Dream	Pearson Education	DDC	P
+9781408845688	A Thousand Splendid Suns	Scholastic	LCC	P
+9781408845689	Another Bullshit Night in Suck City	Cengage Learning	DDC	P
+9781408845690	A Wrinkle in Time	Springer Nature	DDC	E
+9781408845691	The Silence of the Lambs	Wiley 	LCC	E
+9781408845692	Extremely Loud & Incredibly Close	Oxford University Press	DDC	E
+9781408845693	Neverwhere	Bonnier Books	LCC	P
+9781408845694	The Catcher in the Rye	Klett	LCC	P
+9781408845695	If on a Winter's Night a Traveler	Houghton Mifflin Harcourt	LCC	P
+9781408845696	And Then There Were None	Pearson Education	DDC	E
+9781408845697	The Grapes of Wrath	Scholastic	DDC	P
+9781408845698	Trainspotting	Cengage Learning	LCC	E
+9781408845699	Their Eyes Were Watching God	Springer Nature	DDC	P
+9781408845700	I Am America	Wiley 	LCC	P
+9781408845701	Fahrenheit 451	Oxford University Press	DDC	P
+9781408845702	For Whom the Bell Tolls	Bonnier Books	DDC	P
+9781408845703	Brave New World	Klett	LCC	E
+9781408845704	When You Are Engulfed in Flames	HarperCollins	DDC	P
+9781408845705	A Confederacy of Dunces	Macmillan Publishers	LCC	E
+9781408845706	Firefly Lane	Hachette Livre	DDC	P
+9781408845707	Private Peaceful (After Words)	Editis	DDC	E
+9781408845708	The Knife of Never Letting Go	Editis	LCC	P
+9781408845709	The Testament of Gideon Mack	Simon & Schuster	DDC	E
+9781408845710	Miss Peregrine's Home for Peculiar Children	McGraw-Hill Education	LCC	P
+9781408845711	Out Backward	Hachette Livre	LCC	P
+9781408845712	I Am the Messenger	HarperCollins	LCC	P
+9781408845713	Fearless	Springer Nature	LCC	P
+9781408845714	Sloppy Firsts 	Macmillan Publishers	LCC	E
+9781408845715	A Prayer for Owen Meany	Macmillan Publishers	LCC	P
+9781408845716	The Book of Lost Things	Klett	DDC	P
+9781408845717	The Lost Wife	Oxford University Press	DDC	P
+9781408845718	The Night Circus	Bonnier Books	LCC	E
+9781408845719	Every Day	Bonnier Books	DDC	P
+9781408845720	Mama Black Widow	Bonnier Books	DDC	E
+9781408845721	Hate List	McGraw-Hill Education	DDC	E
+9781408845722	I'll Give You the Sun	Springer Nature	DDC	P
+9781408845723	The Unbearable Lightness of Being	Oxford University Press	DDC	E
+9781408845724	The Mysterious Island	Simon & Schuster	LCC	P
+9781408845725	Wild Seed	Oxford University Press	LCC	E
+9781408845726	The Piano Teacher: A Novel	McGraw-Hill Education	DDC	P
+9781408845727	Ella Minnow Pea	Bonnier Books	DDC	E
+9781408845728	The Wasp Factory	Bonnier Books	LCC	P
+9781408845729	Little, Big	McGraw-Hill Education	LCC	E
+9781408845730	A Long Fatal Love Chase	Wiley	DDC	P
+9781408845731	Heart-shaped Box	Bonnier Books	DDC	E
+9781408845732	The Art of Racing in the Rain	Wiley	DDC	E
+9781408845733	Una Historia de Ayer	Klett	LCC	P
+9781408845734	The Blue Castle	Wiley	DDC	P
+9781408845735	To Catch a Pirate	Bonnier Books	DDC	P
+9781408845736	The Seer and the Sword	HarperCollins	LCC	P
+9781408845737	Book of a Thousand Days	Wiley	DDC	E
+9781408845738	The Storyteller's Daughter: A Retelling of the Arabian Nights	Oxford University Press	DDC	E
+9781408845739	The Awakening: Fate in Motion	Editis	LCC	E
+9781408845740	Song of the Sparrow	McGraw-Hill Education	LCC	P
+9781408845741	Keturah and Lord Death	Simon & Schuster	DDC	P
+9781408845742	Tom's Midnight Garden	Springer Nature	LCC	E
+9781408845743	Journey to the River Sea	Klett	DDC	P
+9781408845744	The Mountain's Morning Song	Klett	LCC	P
+9781408845745	Pirates!	Springer Nature	DDC	P
+9781408845746	Arrangement in Black and White	Penguin Random House	DDC	P	
